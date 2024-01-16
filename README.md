@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm patchaiyammal</h1>
-<h3 align="center">started my Carrer with good developer</h3>
+<h3 align="center">started my Carrer with good developing skills</h3>
 
 - 🔭 I’m currently working on **Library application**
 
